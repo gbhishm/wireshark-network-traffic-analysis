@@ -1,0 +1,51 @@
+# Network Traffic Analysis Report
+
+## Executive Summary
+
+Network traffic was captured and analyzed using Wireshark in a virtual lab environment.
+
+The investigation focused on understanding communication between hosts and identifying suspicious network activity.
+
+---
+
+## Scope
+
+- DNS Analysis
+- HTTP Analysis
+- TCP Analysis
+- ICMP Analysis
+
+---
+
+## Activities Performed
+
+- Live Packet Capture
+- Protocol Inspection
+- Traffic Filtering
+- Packet Analysis
+- Communication Tracking
+
+---
+
+## Findings
+
+- DNS requests successfully analyzed.
+- HTTP communication inspected.
+- TCP handshake observed.
+- ICMP packets monitored.
+- Packet headers reviewed.
+
+---
+
+## Recommendations
+
+- Monitor abnormal traffic.
+- Use encrypted protocols where possible.
+- Review unusual DNS requests.
+- Investigate unexpected outbound connections.
+
+---
+
+## Conclusion
+
+The project demonstrates practical experience in packet capture, protocol analysis, and network traffic investigation using Wireshark.
