@@ -1,0 +1,44 @@
+# Suspicious Activity Detection
+
+## DNS
+
+Monitor unusual DNS queries.
+
+---
+
+## HTTP
+
+Inspect suspicious URLs and requests.
+
+---
+
+## TCP
+
+Review abnormal connection attempts.
+
+---
+
+## ICMP
+
+Monitor excessive ping activity.
+
+---
+
+## ARP
+
+Detect possible ARP spoofing attempts.
+
+---
+
+## Network Indicators
+
+- Unexpected outbound traffic
+- Unknown hosts
+- Repeated connection attempts
+- Suspicious protocol usage
+
+---
+
+## Analyst Notes
+
+Document any suspicious observations identified during packet analysis.
